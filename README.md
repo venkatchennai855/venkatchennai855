@@ -20,8 +20,30 @@
 
 
 
-![Hareesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=venkatchennai855&theme=dark&show_icons=true&&hide=issues,contribs)
 
-[![Leetcode Stats](https://leetcard.jacoblin.cool/venkatchennai855?ext=contest&theme=dark)](https://leetcode.com/hareeshprogrammer)
+# 📊 GitHub Stats:
 
-[![Hareesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=venkatchennai855&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<div class="badges-githubstats">
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=venkatchennai855&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="venkat's Stats" height="165">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=venkatchennai855&theme=tokyonight&hide_border=true" alt="venkat's Streak" height="165">
+  </p>
+</div>
+<div class="badges-githubstats">
+  <p align="center">
+    <img src="https://leetcard.jacoblin.cool/venkatchennai855?ext=contest&theme=dark&layout=compact" alt="venkat's Stats" height="165">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=venkatchennai855&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="165">
+  </p>
+</div>
+
+
+
+
+[![Leetcode Stats](https://leetcard.jacoblin.cool/venkatchennai855?ext=contest&theme=dark&layout=compact)](https://leetcode.com/hareeshprogrammer)
+
+![venkat's Programming languages](https://github-readme-stats.vercel.app/api/top-langs/?username=venkatchennai855&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+
+
+
+[![Venkat's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=venkatchennai855&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
